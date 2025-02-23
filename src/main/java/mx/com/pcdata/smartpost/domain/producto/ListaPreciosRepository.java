@@ -1,6 +1,5 @@
 package mx.com.pcdata.smartpost.domain.producto;
 
-import mx.com.pcdata.smartpost.domain.producto.ListaPrecios;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
